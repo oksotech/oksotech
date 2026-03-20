@@ -1,4 +1,4 @@
-# ⚙️ OKSO Technologies
+# OKSO Technologies
 **Bridging Mechanical Precision with Artificial Intelligence.**
 
 Welcome to the official GitHub organization of OKSO Technologies. We are a next-generation technology company focused on:
