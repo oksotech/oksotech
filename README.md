@@ -1,16 +1,17 @@
-## Hi there 👋
+# ⚙️ OKSO Technologies
+**Bridging Mechanical Precision with Artificial Intelligence.**
 
-<!--
-**oksotech/oksotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official GitHub organization of OKSO Technologies. We are a next-generation technology company focused on:
 
-Here are some ideas to get you started:
+- 🤖 **Artificial Intelligence & Software Engineering**
+- 🏭 **Industrial Automation & Electronics**
+- 🖨️ **3D Printing Technologies**
+- 🌐 **Global B2B Engineering Solutions**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect With Us
+- **Email:** [info@oksotech.com](mailto:info@oksotech.com)
+- **Website:** [oksotech.com](https://oksotech.com)
+- **Location:** Ferko Signature, Istanbul, Turkey
+
+---
+*"Engineering the Future."*
